@@ -8,3 +8,5 @@ My GitHub Practice Repository
 
 ## Fun fact
 I made this repository while learning GitHub from zero.
+
+This change was made locally on my computer
